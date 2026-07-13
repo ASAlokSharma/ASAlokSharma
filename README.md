@@ -217,7 +217,7 @@ Built a Cargo Stowage Management System concept for the ISS with an AI + API-int
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ASAlokSharma&label=Profile%20Views&color=8A63F7&style=flat-square"/>
+<img src="https://drive.google.com/file/d/1-bUQlyRh-LO_GtxmcTipGtnvyQ4cK_y-/view?usp=sharing"/>
 
 </div>
 
